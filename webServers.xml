@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="98d60530-c45a-411e-b357-09770c8b7d1a" name="lvbroker" url="http://217.199.165.54">
+        <fileTransfer host="217.199.165.54" port="21223" accessType="SFTP" password="dffedff0dfe7dff2dfe5dfc6dffbdfeedfffdfdfdfc3dfcfdfc6df9edff0dffbdfe4df98dff3dfd9df93dfdddff2dff0dfe4" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21223" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
