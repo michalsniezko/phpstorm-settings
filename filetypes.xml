@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern=".phpaddElement" type="PLAIN_TEXT" />
+      <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="OrderPDF.php" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping pattern="showShared" type="Twig" />
       <mapping pattern="register_claim_form" type="Twig" />
     </extensionMap>
   </component>
