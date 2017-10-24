@@ -1,1 +1,8 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <PHPCodeStyleSettings>
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
