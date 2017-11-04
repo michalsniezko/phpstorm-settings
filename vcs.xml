@@ -114,6 +114,10 @@
           <option name="url" value="https://michalsniezko@bitbucket.org/minergroup/communications-emitter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://michalsniezko@bitbucket.org/minergroup/plantminer-mobile-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\misn\Sites" />
