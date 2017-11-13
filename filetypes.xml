@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="accessedLightbox" type="JavaScript" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
+      <mapping pattern="michal-test-file" type="PLAIN_TEXT" />
       <mapping pattern="test file" type="PLAIN_TEXT" />
       <mapping pattern=".phpaddElement" type="PLAIN_TEXT" />
       <mapping pattern="OrderPDF.php" type="PLAIN_TEXT" />
