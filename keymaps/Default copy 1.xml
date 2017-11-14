@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
