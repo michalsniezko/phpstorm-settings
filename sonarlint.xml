@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.pmstg.com:9000" />
+          <option name="name" value="pm" />
+          <option name="login" value="michal.sniezko@softwaremind.com" />
+          <password>df9fdfc8dfcbdfd9dfc0dfeadfdcdfc5dfe6dfc1</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
