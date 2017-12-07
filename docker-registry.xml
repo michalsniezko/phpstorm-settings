@@ -1,9 +1,9 @@
 <application>
   <component name="DockerRegistry">
     <DockerRegistry email="michal.sniezko@softwaremind.com">
-      <option name="address" value="registry.hub.docker.com" />
+      <option name="address" value="https://minergroup.signin.aws.amazon.com/console " />
       <option name="name" value="Docker Registry" />
-      <option name="username" value="michalsniezko" />
+      <option name="username" value="michal.sniezko@softwaremind.com" />
     </DockerRegistry>
   </component>
 </application>

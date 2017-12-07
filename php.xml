@@ -12,14 +12,14 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:\PHP711\php.exe" id="b608d294-1986-471d-99c2-7f3b6e02d16a" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://plantminer/ci:1.14/php" id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" name="plantminer/ci:1.14" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="plantminer/ci:1.14" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://365061689351.dkr.ecr.ap-southeast-2.amazonaws.com/plantminer-ci:1.15/php" id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" name="plantminer/ci:1.15" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="365061689351.dkr.ecr.ap-southeast-2.amazonaws.com/plantminer-ci:1.15" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="plantminer/ci:1.14">
+      <interpreter name="plantminer/ci:1.15">
         <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php-7.0" path_separator=":" version="7.0.21">
           <additional_php_ini>/etc/php-7.0.d/10-opcache.ini, /etc/php-7.0.d/20-bz2.ini, /etc/php-7.0.d/20-calendar.ini, /etc/php-7.0.d/20-ctype.ini, /etc/php-7.0.d/20-curl.ini, /etc/php-7.0.d/20-dom.ini, /etc/php-7.0.d/20-exif.ini, /etc/php-7.0.d/20-fileinfo.ini, /etc/php-7.0.d/20-ftp.ini, /etc/php-7.0.d/20-gd.ini, /etc/php-7.0.d/20-gettext.ini, /etc/php-7.0.d/20-iconv.ini, /etc/php-7.0.d/20-intl.ini, /etc/php-7.0.d/20-json.ini, /etc/php-7.0.d/20-mbstring.ini, /etc/php-7.0.d/20-mcrypt.ini, /etc/php-7.0.d/20-mysqlnd.ini, /etc/php-7.0.d/20-pdo.ini, /etc/php-7.0.d/20-phar.ini, /etc/php-7.0.d/20-posix.ini, /etc/php-7.0.d/20-shmop.ini, /etc/php-7.0.d/20-simplexml.ini, /etc/php-7.0.d/20-soap.ini, /etc/php-7.0.d/20-sockets.ini, /etc/php-7.0.d/20-sqlite3.ini, /etc/php-7.0.d/20-sysvmsg.ini, /etc/php-7.0.d/20-sysvsem.ini, /etc/php-7.0.d/20-sysvshm.ini, /etc/php-7.0.d/20-tokenizer.ini, /etc/php-7.0.d/20-xml.ini, /etc/php-7.0.d/20-xmlwriter.ini, /etc/php-7.0.d/20-xsl.ini, /etc/php-7.0.d/20-zip.ini, /etc/php-7.0.d/30-mysqli.ini, /etc/php-7.0.d/30-pdo_mysql.ini, /etc/php-7.0.d/30-pdo_sqlite.ini, /etc/php-7.0.d/30-wddx.ini, /etc/php-7.0.d/30-xmlreader.ini, /etc/php-7.0.d/40-xdebug.ini, /etc/php-7.0.d/php.ini</additional_php_ini>
           <configuration_file>/etc/php.ini</configuration_file>
