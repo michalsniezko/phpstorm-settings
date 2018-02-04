@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="vd" value="echo '&lt;pre&gt;';&#10;var_dump($END$);&#10;echo '&lt;/pre&gt;';&#10;die();" description="'var_dump' surrounded by &lt;pre&gt;&lt;/pre&gt; and die" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="pe" value="&lt;?php echo '$END$'; ?&gt;" shortcut="ENTER" description="&lt;?php echo 'something' ; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
