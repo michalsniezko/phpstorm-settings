@@ -3,12 +3,13 @@
     <extensionMap>
       <mapping pattern="accessedLightbox" type="JavaScript" />
       <mapping pattern=".apib" type="Markdown" />
-      <mapping pattern="michal-test-file" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="Markdown" />
       <mapping pattern=".phpaddElement" type="PLAIN_TEXT" />
       <mapping pattern=".ssh" type="PLAIN_TEXT" />
+      <mapping pattern="michal-test-file" type="PLAIN_TEXT" />
+      <mapping pattern="test file" type="PLAIN_TEXT" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="OrderPDF.php" type="PLAIN_TEXT" />
-      <mapping pattern="test file" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="showShared" type="Twig" />
