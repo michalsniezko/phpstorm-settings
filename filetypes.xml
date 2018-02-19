@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="accessedLightbox" type="JavaScript" />
       <mapping pattern=".apib" type="Markdown" />
+      <mapping pattern="supplier-supplier-experiences" type="Markdown" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern=".phpaddElement" type="PLAIN_TEXT" />
       <mapping pattern=".ssh" type="PLAIN_TEXT" />
