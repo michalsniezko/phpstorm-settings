@@ -17,6 +17,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Analyze File with SonarLint">
+        <Item>
+          <IdeaActionID>SonarLint.AnalyzeCurrentEditorFilePopup</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+S'</ShortCut>
+          <Description>Analyze File with SonarLint</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clone Row">
         <Item>
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
@@ -118,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Go to scope declaration</Description>
-          <Count>282</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -158,7 +166,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>232</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
