@@ -134,7 +134,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Foreign Key...">
@@ -169,12 +169,20 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Referenced Data">
+        <Item>
+          <IdeaActionID>Console.TableResult.NavigateForeignAction</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Referenced Data</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reload Page">
         <Item>
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>308</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -254,7 +262,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
