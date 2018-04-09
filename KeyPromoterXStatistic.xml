@@ -169,6 +169,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Repository Version">
+        <Item>
+          <IdeaActionID>Vcs.Log.OpenRepositoryVersion</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Repository Version</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation Popup...">
