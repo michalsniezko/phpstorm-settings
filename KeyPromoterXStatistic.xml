@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Go to scope declaration</Description>
-          <Count>525</Count>
+          <Count>526</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -222,7 +222,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>671</Count>
+          <Count>673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
