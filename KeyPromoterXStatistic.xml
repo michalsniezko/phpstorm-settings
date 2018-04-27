@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -78,7 +78,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>146</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
