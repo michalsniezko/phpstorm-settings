@@ -86,7 +86,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>181</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
