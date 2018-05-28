@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -38,7 +38,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>75</Count>
+          <Count>79</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Rows</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -54,7 +62,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -102,7 +110,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>29</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -135,6 +143,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
