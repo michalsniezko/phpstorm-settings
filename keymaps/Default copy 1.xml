@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
