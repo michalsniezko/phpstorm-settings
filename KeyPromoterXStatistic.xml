@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>261</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -174,7 +174,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>33</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
