@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -6,6 +9,10 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
