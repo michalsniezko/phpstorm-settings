@@ -9,7 +9,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="eco" value="echo PHP_EOL . &quot;$END$&quot; . PHP_EOL;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+  <template name="eco" value="echo PHP_EOL . $END$ . PHP_EOL;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
 </templateSet>
