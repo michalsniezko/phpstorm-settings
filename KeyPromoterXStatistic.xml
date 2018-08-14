@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>517</Count>
+          <Count>525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Referenced Data">
@@ -190,7 +190,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>388</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
