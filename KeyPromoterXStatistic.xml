@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Database">
         <Item>
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
@@ -87,6 +95,14 @@
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
