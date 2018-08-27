@@ -10,6 +10,12 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
