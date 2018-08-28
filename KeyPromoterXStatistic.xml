@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>433</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -334,7 +334,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
