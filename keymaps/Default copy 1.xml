@@ -23,4 +23,5 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="context.load" />
 </keymap>
