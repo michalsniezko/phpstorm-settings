@@ -238,7 +238,7 @@
           <IdeaActionID>QuickChangeScheme</IdeaActionID>
           <ShortCut>'Ctrl+`'</ShortCut>
           <Description>Quick Switch Scheme...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Referenced Data">
@@ -326,7 +326,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
