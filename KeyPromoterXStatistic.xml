@@ -238,7 +238,7 @@
           <IdeaActionID>QuickChangeScheme</IdeaActionID>
           <ShortCut>'Ctrl+`'</ShortCut>
           <Description>Quick Switch Scheme...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Referenced Data">
