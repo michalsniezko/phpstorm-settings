@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>134</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>5</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -207,6 +207,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Maximize Tool Window">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Quote'</ShortCut>
+          <Description>Maximize Tool Window</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New...">
@@ -254,7 +262,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>193</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -343,6 +351,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
           <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore tool window size">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Quote'</ShortCut>
+          <Description>Restore tool window size</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -438,7 +454,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>51</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -486,7 +502,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>163</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
