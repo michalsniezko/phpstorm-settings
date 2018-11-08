@@ -36,6 +36,9 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -49,6 +52,8 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="IntroduceParameter" />
+  <action id="Laravel.ExtractPartialView" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
