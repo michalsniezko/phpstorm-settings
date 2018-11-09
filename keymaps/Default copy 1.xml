@@ -23,6 +23,11 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
