@@ -110,7 +110,15 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>141</Count>
+          <Count>142</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database Console">
+        <Item>
+          <IdeaActionID>ActivateDatabaseConsoleToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Q'</ShortCut>
+          <Description>Database Console</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -342,7 +350,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>698</Count>
+          <Count>699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
