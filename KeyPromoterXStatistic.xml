@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>813</Count>
+          <Count>824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -230,7 +230,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -273,6 +273,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Down'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Console">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Up'</ShortCut>
           <Description>Previous Page</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -398,7 +406,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore tool window size">
