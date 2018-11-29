@@ -59,6 +59,9 @@
   </action>
   <action id="IntroduceParameter" />
   <action id="Laravel.ExtractPartialView" />
+  <action id="TabSwitchPlugin.SwitchTab">
+    <keyboard-shortcut first-keystroke="numpad7" />
+  </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
