@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze with SonarLint">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>185</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Console">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>934</Count>
+          <Count>935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -406,7 +406,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>734</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -558,7 +558,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>44</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
