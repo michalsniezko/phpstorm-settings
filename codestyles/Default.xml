@@ -1,8 +1,16 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
