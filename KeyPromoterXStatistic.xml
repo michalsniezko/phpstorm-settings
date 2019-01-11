@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>UML.ActualSize</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad /' or 'Ctrl+/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <IdeaActionID>Git.Add</IdeaActionID>
@@ -23,6 +31,14 @@
           <ShortCut>'Ctrl+Shift+S'</ShortCut>
           <Description>Analyze with SonarLint</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Apply Current Layout">
+        <Item>
+          <IdeaActionID>UML.ApplyCurrentLayout</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Apply Current Layout</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Branches...">
@@ -118,7 +134,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>239</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Console">
@@ -518,7 +534,7 @@
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Show Visualisation Popup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation...">
@@ -526,7 +542,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Sort Lines">
@@ -623,6 +639,22 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>116</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>UML.ZoomIn</IdeaActionID>
+          <ShortCut>'Ctrl+='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>UML.ZoomOut</IdeaActionID>
+          <ShortCut>'Ctrl+Minus'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
