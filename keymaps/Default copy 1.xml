@@ -4,7 +4,9 @@
   </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
