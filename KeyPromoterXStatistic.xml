@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>251</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Console">
@@ -430,7 +430,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>801</Count>
+          <Count>802</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
