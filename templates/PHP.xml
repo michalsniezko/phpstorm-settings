@@ -9,4 +9,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="eco" value="echo PHP_EOL . $END$ . PHP_EOL;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="ql" value="DB::connection()-&gt;enableQueryLog();&#10;$SELECTION$&#10;print_r(DB::getQueryLog());&#10;die();" description="query log laravel" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
