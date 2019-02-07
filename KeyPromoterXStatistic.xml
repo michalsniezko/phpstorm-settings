@@ -454,7 +454,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>810</Count>
+          <Count>812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -606,7 +606,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>63</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
