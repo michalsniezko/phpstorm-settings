@@ -38,7 +38,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Shift+Q'</ShortCut>
           <Description>Annotate</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
