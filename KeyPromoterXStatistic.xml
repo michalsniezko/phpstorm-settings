@@ -38,7 +38,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Shift+Q'</ShortCut>
           <Description>Annotate</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1190</Count>
+          <Count>1192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
