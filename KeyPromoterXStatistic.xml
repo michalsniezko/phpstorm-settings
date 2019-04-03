@@ -134,7 +134,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>363</Count>
+          <Count>364</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Console">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1231</Count>
+          <Count>1238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -430,7 +430,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>258</Count>
+          <Count>259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
