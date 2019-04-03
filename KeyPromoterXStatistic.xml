@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Database</Description>
-          <Count>364</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Console">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1238</Count>
+          <Count>1240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -430,7 +430,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -486,7 +486,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>830</Count>
+          <Count>840</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
