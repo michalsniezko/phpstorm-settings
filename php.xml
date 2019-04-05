@@ -1,20 +1,20 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <phpmd_by_interpreter interpreter_id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" tool_path="/opt/project/vendor/phpmd/phpmd/src/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" tool_path="/opt/project/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\PHP711\php.exe" id="b608d294-1986-471d-99c2-7f3b6e02d16a" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://365061689351.dkr.ecr.ap-southeast-2.amazonaws.com/plantminer-ci:1.15/php" id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" name="plantminer/ci:1.15" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="365061689351.dkr.ecr.ap-southeast-2.amazonaws.com/plantminer-ci:1.15" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
+      <interpreter id="b608d294-1986-471d-99c2-7f3b6e02d16a" name="PHP" home="C:\PHP711\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="42c43fc1-e213-40a5-be00-aa5c29cd4b89" name="plantminer/ci:1.15" home="docker://365061689351.dkr.ecr.ap-southeast-2.amazonaws.com/plantminer-ci:1.15/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
