@@ -1,9 +1,24 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
 </code_scheme>
