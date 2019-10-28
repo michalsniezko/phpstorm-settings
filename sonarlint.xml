@@ -8,11 +8,11 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.pmstg.com:9000" />
-          <option name="name" value="pm" />
-          <option name="login" value="michal.sniezko@softwaremind.com" />
-          <password>df9fdfc8dfcbdfd9dfc0dfeadfdcdfc5dfe6dfc1</password>
-          <organizationKey>default-organization</organizationKey>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df99dfccdf9edf9ddfc9dfcbdfc8df98dfcedf9cdf9bdf9adfcbdfc8dfccdfccdf9cdf9cdf9fdf93dfcedf9bdf9ddf9ddfccdf9cdf99df9fdf9adf9bdfc9df93df93df9adf98df92df9bdf9fdf9ddf93</token>
+          <option name="name" value="cloud" />
+          <organizationKey>minergroup</organizationKey>
+          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
