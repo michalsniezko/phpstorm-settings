@@ -1,5 +1,78 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <DB2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </HSQLCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -7,14 +80,61 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
+  <PostgresCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="0" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_IN_ONE_STRING" value="1" />
     <option name="FROM_WRAP_ON" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </SQLiteCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+  </SybaseCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_LINE_BREAKS" value="false" />
